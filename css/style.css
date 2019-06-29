@@ -35,6 +35,8 @@
 
 		.row { margin-top: 10px; }
 
+    .row p { text-align: justify; }
+
 		.row .caption {
 			position: relative;
 			margin: -35px 0px 0px 5px;
@@ -55,7 +57,7 @@
 
 		#about-me-img.img-thumbnail {
 			margin: 0px 10px 10px 0px;
-			width: 28%;
+			width: 27%;
 			float: left;
 		}
 
